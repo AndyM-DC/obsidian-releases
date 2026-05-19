@@ -27551,4 +27551,11 @@
     "description": "This plugin has not been manually reviewed by Obsidian staff. Visualize tasks across your vault in a 5-quadrant Eisenhower matrix (DO / DECIDE / DELEGATE / DELETE / OPEN). Reads and writes standard task syntax — tags, due/start/done dates, and priority emoji.",
     "repo": "krcaljaroslav/4D-eisenhower-matrix"
   }
+  {
+  "id": "link-extractor",
+  "name": "Link Extractor",
+  "author": "Andrew Mutavdzija",
+  "description": "Scan the current note for all external links and copy them as a list.",
+  "repo": "AndyM-DC/obsidian-link-extractor"
+}
 ]
