@@ -31253,5 +31253,12 @@
     "author": "jpcranford",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Detects TTRPG dice notation (d6, 2d8, d100…) in the first column of table headers and auto-fills the first column with evenly distributed roll ranges.",
     "repo": "jpcranford/obsidian-plugin-dice-table"
-  }
+  },
+  {
+  "id": "granola-notes-merger",
+  "name": "Granola Notes and Transcript Merger",
+  "author": "Andrew F. Mutavdzija",
+  "description": "Seamlessly merge and copy/save Granola meeting notes and transcripts.",
+  "repo": "AndyM-DC/granola-notes-merger"
+}
 ]
